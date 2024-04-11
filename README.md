@@ -1,6 +1,6 @@
 # Распознование и суммаризация аудиозаписей онлайн встреч
     Схема проекта:
-    meeting record (.wav file) -> TTS(Whisper) -> NER -> Summary(GPT-NeoX) -> meeting summary (.txt file)
+    meeting record (.wav file) -> TTS(Whisper) -> NER -> Summary(T5) -> meeting summary (.txt file)
 ### Над проектом работали студенты:
     Болотина Екатерина
     Бондаренко Егор
